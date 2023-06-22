@@ -1,4 +1,4 @@
 <svg width="300" height="200"> 
-	<circle cx="150" cy="100" r="75" fill="black"/> 
-	<text x="108" y="115" font-size="50" fill="blue">WOW</text> 
+	<rect width="150" height="100" x="75" y="50" style="fill:darkgray"/> 
+	<text x="108" y="115" font-size="50" fill="red">UWU</text> 
 </svg>

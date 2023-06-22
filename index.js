@@ -4,7 +4,7 @@ const colors = require('./lib/colors');
 const {generateSVG} = require('./lib/generateSVG.js');
 
 function init(){
-    const shapes = ['Circle', 'Triangle', 'Square'];
+    const shapes = ['Circle', 'Square', 'Triangle'];
     inquirer
         .prompt([
             { // text in the logo [[ CONSIDER: limiting the amount of characters]]
