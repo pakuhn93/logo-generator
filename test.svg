@@ -2,7 +2,7 @@
     <circle cx="150" cy="100" r="75" fill="yellow"/>
     <rect width="150" height="100" x="75" y="50" style="fill:rgb(0,0,255)"/>
     <polygon points="60,150 150,20 240,150" style="fill:red"/>
-    <text x="108" y="115" font-size="50" fill="#fc02fc">SVG</text>
+    <text x="108" y="115" font-size="50" fill="purple">SVG</text>
 
 
 </svg>;
